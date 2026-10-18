@@ -48,6 +48,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app)
 - [SupaSocial](https://github.com/koji0701/supabase-react-social-media-starter/tree/main) - React social media starter with auth, friend requests, profile pics, and example app (profile, friends, signin, leaderboard, and more pages).
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
+- [OTF SaaS Dashboard](https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=awesome-listing&utm_content=2026-10-18-saas-supabase-starters) - Next.js 14 and Supabase SaaS starter with authentication, Stripe billing, workspaces, and team management.
 
 ## Data Migration Tools
 
